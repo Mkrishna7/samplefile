@@ -1,0 +1,10 @@
+
+this is kelly
+
+git remote add venkatesh https://github.com/venkateswarlu009/kelly.git
+  517  git push -u venkatesh master
+
+
+this is kelly009
+
+ git remote add venky https://github.com/venkateswarlu009/kelly009.git
