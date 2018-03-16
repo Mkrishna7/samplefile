@@ -1,6 +1,6 @@
 ################# Git commands for practice porpuse#############################
 this is kelly
-
+%%%%%%%%%%%%%%%%%%%%%%devops%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 git remote add venkatesh https://github.com/venkateswarlu009/kelly.git
   517  git push -u venkatesh master
 
